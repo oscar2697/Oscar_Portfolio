@@ -20,6 +20,7 @@ import {
     game,
     gif,
     manager,
+    chemist,
     oscar,
     mysql,
     java,
@@ -192,6 +193,23 @@ import {
       ],
       image: manager,
       source_code_link: "https://github.com/oscar2697/administrador_citas_reactjs",
+    },
+    {
+      name: "Sales systems",
+      description:
+        "A pharmacy sales system in Java and MySQL is an application that automates inventory, sales and billing management in a pharmacy, providing efficient control over products, customers and transactions, with a secure database in MySQL.",
+      tags: [
+        {
+          name: "java",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mysql",
+          color: "green-text-gradient",
+        },
+      ],
+      image: chemist,
+      source_code_link: "https://github.com/oscar2697",
     },
     {
       name: "GitHub",
