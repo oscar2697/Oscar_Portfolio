@@ -29,6 +29,7 @@ import b1soft from "./company/b1soft.png";
 import game from "./game.png";
 import gif from "./gif.png";
 import manager from "./manager.png";
+import chemist from './chemist.png'
 import oscar from './oscar.png';
 
 export {
@@ -58,5 +59,6 @@ export {
   game,
   gif,
   manager,
+  chemist,
   oscar
 };
