@@ -16,6 +16,7 @@ import mongodb from "./tech/mongodb.png";
 import mysql from './tech/mysql.png';
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
+import nextjs from "./tech/nextjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
@@ -51,6 +52,7 @@ export {
   mysql,
   nodejs,
   reactjs,
+  nextjs,
   redux,
   tailwind,
   typescript,
