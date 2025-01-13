@@ -4,7 +4,7 @@ import {
   student,
   web,
   javascript,
-  //typescript,
+  typescript,
   html,
   css,
   reactjs,
