@@ -45,12 +45,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a Software Engineering Student and Front-End Developer with experience in HTML, CSS, JavaScript,
-        Java, MySQL and React.js. My passion lies in creating captivatin and functional web interfaces that
-        delight users and offer solid solutinos. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solvereal-world problems. 
-        I'm excited about the Web Development opportunities and the chance
-        to contribute to innovative projects. Let's work together to bring your ideas to life!!
+        I'm a Software Engineer with experience in HTML, CSS, JavaScript, Java, MySQL, React.js, and other modern web technologies. 
+        My passion lies in creating captivating and functional web interfaces that enhance user experience while solving real-world problems.
+        As a quick learner and a collaborative team player, I strive to deliver efficient, scalable, and user-friendly solutions. 
+        Currently, I'm exploring new horizons in Artificial Intelligence technologies and always eager to learn and grow. 
+        Let's work together to bring your ideas to life and build innovative projects that make an impact!
+
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

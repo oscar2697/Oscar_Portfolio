@@ -48,12 +48,11 @@ const Works = () => {
 
       <div className="w-full flex">
         <motion.p variants={fadeIn('', '', 0.1, 1)} className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px] ">
-        Through a series of personal projects, I have explored the exciting world of website and app creation. 
-        From my first forays into HTML and CSS to more recent projects with React.js, each job represents a step 
-        in my learning and development. My goal is to showcase my ability to create attractive and functional user interfaces 
-        while continuing to explore and improve my skills in Front-End development. Through these projects, 
-        I hope to convey my passion for technology and my dedication to contributing to the ever-evolving web world. 
-        Join me on my journey to discover how I have brought my ideas and learnings to life in the digital world!
+        Through personal projects, I have delved into the dynamic world of website and app creation. 
+        Starting with HTML and CSS and progressing to advanced projects using React.js, each experience reflects a step in my journey of growth and learning.
+        My focus is on crafting attractive and functional user interfaces while continuously enhancing my skills in Front-End development. 
+        These projects demonstrate my passion for technology and my commitment to contributing to the ever-evolving digital landscape.
+        Join me as I showcase how I bring ideas to life and turn challenges into opportunities in the digital world!
         </motion.p>
       </div>
 
