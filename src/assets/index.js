@@ -12,7 +12,6 @@ import docker from "./tech/docker.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import java from './tech/java.png';
 import mongodb from "./tech/mongodb.png";
 import mysql from './tech/mysql.png';
 import nodejs from "./tech/nodejs.png";
@@ -46,7 +45,6 @@ export {
   git,
   html,
   javascript,
-  java,
   mongodb,
   mysql,
   nodejs,

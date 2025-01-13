@@ -23,7 +23,6 @@ import {
   chemist,
   oscar,
   mysql,
-  java,
 } from "../assets";
 
 export const navLinks = [
@@ -72,10 +71,6 @@ const technologies = [
   {
     name: "JavaScript",
     icon: javascript,
-  },
-  {
-    name: "Java",
-    icon: java,
   },
   {
     name: "TypeScript",
