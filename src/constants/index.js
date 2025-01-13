@@ -15,6 +15,8 @@ import {
   git,
   github,
   docker,
+  python,
+  django,
   b1soft,
   //starbucks,
   game,
@@ -99,6 +101,14 @@ const technologies = [
   {
     name: "MongoDB",
     icon: mongodb,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
+  {
+    name: "Django",
+    icon: django
   },
   {
     name: "git",

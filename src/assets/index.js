@@ -19,6 +19,8 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
+import python from "./tech/python.png";
+import django from "./tech/django.png";
 
 import b1soft from "./company/b1soft.png";
 // import shopify from "./company/shopify.png";
@@ -52,6 +54,8 @@ export {
   redux,
   tailwind,
   typescript,
+  python,
+  django,
   b1soft,
   //shopify,
   game,
