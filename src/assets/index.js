@@ -13,13 +13,13 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import java from './tech/java.png';
-// import mongodb from "./tech/mongodb.png";
+import mongodb from "./tech/mongodb.png";
 import mysql from './tech/mysql.png';
-// import nodejs from "./tech/nodejs.png";
+import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-//import redux from "./tech/redux.png";
+import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-//import typescript from "./tech/typescript.png";
+import typescript from "./tech/typescript.png";
 
 import b1soft from "./company/b1soft.png";
 // import shopify from "./company/shopify.png";
@@ -47,13 +47,13 @@ export {
   html,
   javascript,
   java,
-  //mongodb,
+  mongodb,
   mysql,
-  //nodejs,
+  nodejs,
   reactjs,
-  //redux,
+  redux,
   tailwind,
-  //typescript,
+  typescript,
   b1soft,
   //shopify,
   game,
