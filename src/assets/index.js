@@ -29,9 +29,9 @@ import b1soft from "./company/b1soft.png";
 // import tesla from "./company/tesla.png";
 
 import game from "./game.png";
-import gif from "./gif.png";
+import quiosco from "./quiosco.png";
 import manager from "./manager.png";
-import chemist from './chemist.png'
+import uptask from './uptask.png'
 import oscar from './oscar.png';
 
 export {
@@ -61,8 +61,8 @@ export {
   b1soft,
   //shopify,
   game,
-  gif,
+  quiosco,
   manager,
-  chemist,
+  uptask,
   oscar
 };

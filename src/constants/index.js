@@ -21,9 +21,9 @@ import {
   b1soft,
   //starbucks,
   game,
-  gif,
+  quiosco,
   manager,
-  chemist,
+  uptask,
   oscar,
   mysql,
 } from "../assets";
@@ -57,7 +57,7 @@ const services = [
     icon: frontend,
   },
   {
-    title: "Software Engineer Student",
+    title: "Software Engineer",
     icon: student,
   },
 ];
@@ -163,12 +163,12 @@ const projects = [
     source_code_link: "https://github.com/oscar2697/GameJs",
   },
   {
-    name: "Gif Finder",
+    name: "Kiosk",
     description:
-      "Discover a world of visual fun with our GIF search engine created with React. Explore a wide range of GIFs in real time and find the perfect touch for your conversations and messages. Developed with React, this app gives you a quick and easy search experience, ready for you to start sharing laughter and excitement in seconds!",
+      "A modern point-of-sale system built with Next.js, Tailwind CSS, TypeScript, and MongoDB. It offers a seamless interface for managing sales, inventory, and customer transactions, providing an efficient solution for businesses of any size.",
     tags: [
       {
-        name: "react",
+        name: "next",
         color: "blue-text-gradient",
       },
       {
@@ -176,12 +176,12 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwindcss",
         color: "pink-text-gradient",
       },
     ],
-    image: gif,
-    source_code_link: "https://github.com/oscar2697/Gif-App",
+    image: quiosco,
+    source_code_link: "https://github.com/oscar2697/quisco?tab=readme-ov-file",
   },
   {
     name: "Appointment Manager",
@@ -205,21 +205,26 @@ const projects = [
     source_code_link: "https://github.com/oscar2697/administrador_citas_reactjs",
   },
   {
-    name: "Sales systems",
+    name: "UpTask",
     description:
-      "A pharmacy sales system in Java and MySQL is an application that automates inventory, sales and billing management in a pharmacy, providing efficient control over products, customers and transactions, with a secure database in MySQL.",
+      "A task management app built with React, TypeScript, Node.js, and MongoDB. It allows users to create, organize, and track tasks across projects with features like project categorization, task prioritization, and real-time updates. Perfect for boosting productivity and team collaboration.",
     tags: [
       {
-        name: "java",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mysql",
+        name: "tailwindcss",
         color: "green-text-gradient",
       },
+      {
+        name: "typescript",
+        color: "pink-text-gradient",
+      },
     ],
-    image: chemist,
-    source_code_link: "https://github.com/oscar2697",
+    image: uptask,
+    source_code_link: "https://github.com/oscar2697/uptask_frontend",
+    source_code_link: "https://github.com/oscar2697/uptask_backend",
   },
   {
     name: "GitHub",
